@@ -47,11 +47,11 @@ page 'sitemap.xml', layout: 'xml_layout'
 helpers do
   def page_title
     if current_page.data.title
-      "#{current_page.data.title} | プロダクトマネージャ―カンファレンス 2016"
+      "#{current_page.data.title} | プロダクトマネージャ―カンファレンス 2017"
     elsif yield_content(:title)
-      "#{yield_content(:title)} | プロダクトマネージャーカンファレンス 2016"
+      "#{yield_content(:title)} | プロダクトマネージャーカンファレンス 2017"
     else
-      'プロダクトマネージャーカンファレンス 2016 | 10/24~10/25'
+      'プロダクトマネージャーカンファレンス 2017'
     end
   end
 
@@ -61,7 +61,7 @@ helpers do
     elsif yield_content(:description)
       yield_content(:description)
     else
-      'Japan Product Manager Conference 2016 - プロダクトマネージャーが日本を救う'
+      'Japan Product Manager Conference 2017 - プロダクトマネージャーが日本を救う'
     end
   end
 
