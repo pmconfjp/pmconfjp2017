@@ -1,4 +1,4 @@
-## Japan pmconf 2016
+## Japan pmconf 2017
 
 ## 本番環境への反映
 masterブランチに変更があると、TravisCIが自動的にgh-pagesブランチへデプロイしてくれます。
@@ -10,7 +10,7 @@ masterブランチに変更があると、TravisCIが自動的にgh-pagesブラ�
 
 ### 記事追加時のフォーマットについて
 ファイル名は `YYYY-MM-DD-TITLE.html.md` というフォーマットである必要があります。  
-例) `2015-11-10-first-post.html.md`
+例) `2017-11-10-first-post.html.md`
 
 また、ファイル内では以下のフォーマットに沿って記述する必要があります。  
 **※dateはファイル名の日付と一致している必要があります。**
