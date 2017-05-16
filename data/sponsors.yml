@@ -1,0 +1,109 @@
+platina:
+  - name: 株式会社ジャストシステム
+    url: http://www.justsystems.com/jp/
+    logo_image_url: /assets/images/sponsors/justsystem.png
+  - name: 日本マイクロソフト株式会社
+    url: https://www.microsoft.com/ja-jp/server-cloud/Solutions-BI-Data-Analytics.aspx
+    logo_image_url: /assets/images/sponsors/microsoft.png
+  - name: スマートニュース株式会社
+    url: http://about.smartnews.com/ja/about/
+    logo_image_url: /assets/images/sponsors/smartnews.png
+  - name: 楽天株式会社
+    url: http://corp.rakuten.co.jp/careers/engineering/
+    logo_image_url: /assets/images/sponsors/rakuten.png
+  - name: 株式会社モバイルファクトリー
+    url: http://www.mobilefactory.jp/
+    logo_image_url: /assets/images/sponsors/mobilefactory.png
+  - name: ギルドワークス株式会社
+    url: https://guildworks.jp/
+    logo_image_url: /assets/images/sponsors/guildworks.png
+  - name: 株式会社ディー・エヌ・エー
+    url: http://dena.com/jp/
+    logo_image_url: /assets/images/sponsors/dena.png
+  - name: エン・ジャパン株式会社
+    url: http://corp.en-japan.com/
+    logo_image_url: /assets/images/sponsors/enjapan.png
+  - name: 株式会社サイバーエージェント
+    url: https://www.cyberagent.co.jp/corporate/data/
+    logo_image_url: /assets/images/sponsors/cyberagent.png
+  - name: Increments株式会社
+    url: http://increments.co.jp/company
+    logo_image_url: /assets/images/sponsors/increments.png
+golds:
+  - name: 株式会社メルカリ
+    url: https://www.mercari.com/jp/about/corporate/
+    logo_image_url: /assets/images/sponsors/mercari.png
+  - name: サイボウズ株式会社
+    url: http://cybozu.co.jp/company/job/recruitment/list/product_manager.html
+    logo_image_url: /assets/images/sponsors/cybozu.png
+  - name: LINE株式会社
+    url: http://line.me/ja/
+    logo_image_url: /assets/images/sponsors/line.png
+  - name: 株式会社グッドパッチ
+    url: http://goodpatch.com/jp
+    logo_image_url: /assets/images/sponsors/goodpatch.png
+  - name: クックパッド株式会社
+    url: https://info.cookpad.com/corporate/philosophy
+    logo_image_url: /assets/images/sponsors/cookpad.png
+  - name: 株式会社シャノン
+    url: http://www.shanon.co.jp/
+    logo_image_url: /assets/images/sponsors/shanon.png
+  - name: 株式会社ビズリーチ
+    url: http://www.bizreach.co.jp/corporate_info/profile/
+    logo_image_url: /assets/images/sponsors/bizreach.png
+  - name: グロースエクスパートナーズ株式会社
+    url: http://www.gxp.co.jp/atlassian/index.html
+    logo_image_url: /assets/images/sponsors/growthxpartners.png
+silvers:
+  - name: 株式会社お金のデザイン
+    url: https://theo.blue/
+    logo_image_url: /assets/images/sponsors/money-design.png
+  - name: ゼロベース株式会社
+    url: https://www.zerobase.jp/
+    logo_image_url: /assets/images/sponsors/zerobase.png
+drinks:
+  - name: スマートニュース株式会社
+    url: http://about.smartnews.com/ja/about/
+    logo_image_url: /assets/images/sponsors/smartnews.png
+  - name: 株式会社メルカリ
+    url: https://www.mercari.com/jp/about/corporate/
+    logo_image_url: /assets/images/sponsors/mercari.png
+  - name: クックパッド株式会社
+    url: https://info.cookpad.com/corporate/philosophy
+    logo_image_url: /assets/images/sponsors/cookpad.png
+  - name: 株式会社サイバーエージェント
+    url: https://www.cyberagent.co.jp/corporate/data/
+    logo_image_url: /assets/images/sponsors/cyberagent.png
+  - name: 株式会社ビズリーチ
+    url: http://www.bizreach.co.jp/corporate_info/profile/
+    logo_image_url: /assets/images/sponsors/bizreach.png
+  - name: freee株式会社
+    url: https://www.freee.co.jp/
+    logo_image_url: /assets/images/sponsors/freee.png
+medias:
+  - name: CAREER HACK
+    url: http://careerhack.en-japan.com/
+    logo_image_url: /assets/images/sponsors/careerhack.jpg
+  - name: CodeZine
+    url: https://codezine.jp/
+    logo_image_url: /assets/images/sponsors/codezine.png
+  - name: Think IT
+    url: https://thinkit.co.jp/
+    logo_image_url: /assets/images/sponsors/thinkit.png
+  - name: Software Design
+    url: https://gihyo.jp/magazine/SD
+    logo_image_url: /assets/images/sponsors/softwaredesign.jpg
+  - name: 技術評論社
+    url: https://gihyo.jp/
+    logo_image_url: /assets/images/sponsors/gihyo.jpg
+communities:
+  - name: POStudy ～アジャイル・プロダクトマネジメント研究会～
+    url: http://www.postudy.com/
+    logo_image_url: /assets/images/sponsors/postudy.png
+  - name: Product Managers Japan (PMJP)
+    url: http://productmanagers.jp/
+    logo_image_url: /assets/images/sponsors/pmjp.png
+goods:
+  - name: 株式会社spice life
+    url: http://spicelife.jp
+    logo_image_url: /assets/images/sponsors/spicelife.png
