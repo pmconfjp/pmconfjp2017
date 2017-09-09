@@ -4,17 +4,10 @@
       p.largeHeader_siteCaption
         | 広げる、深める、日本のプロダクトマネジメント
       h1.largeHeader_siteLogo
-        | Japan Product Manager
-        br
-        | Conference 2017
+        | #pmconf2017
       h2.largeHeader_date
-        | Comming on Fall...
-        / span.largeHeader_place @ ???
-/      .largeHeader_signup
-/        = link_to 'https://pmconfjp.doorkeeper.jp/events/52123', class: 'largeHeader_signup_button', title: 'Doorkeeperで申込み', target: '_blank' do
-/          i.fa.fa-external-link
-/          | &nbsp;
-/          | 参加申込み
+        | 2017.11.14 - 15
+      span.largeHeader_place @ 渋谷マークシティ
 
 section.section
   .container
@@ -24,31 +17,38 @@ section.section
     p
       | プロダクトマネージャーという職種の認知を高め、プロダクトマネージメント業務に携わる人々が情報や意見を交換することで共に学ぶ場を持つことが、創造性や先進性に富んだものづくりを行うには重要です。そのきっかけになるべく、今回のプロダクトマネージャーカンファレンスが企画されました。
 
-/ section.section
-/   .container
-/     h2.section_title 開催概要
-/     .row
-/       .col-sm-6
-/         <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA752IhT1WuIsrSVesJ6U08Cm6qgsRhqbI"></script>
-/         <script type="text/javascript">google.maps.event.addDomListener(window,'load',function(){var lat = 35.658042;var lng = 139.698262;var latlng = new google.maps.LatLng(lat, lng);var map = document.getElementById('map');var options = {zoom: 16,center: latlng,mapTypeId: google.maps.MapTypeId.ROADMAP,scrollwheel: false};var mapObj = new google.maps.Map(map, options);var marker = new google.maps.Marker({position: latlng,map: mapObj});});</script>
-/         <div id="map" style="width:100%; height: 300px;"></div>
-/       .col-sm-6.section_body
-/         dl.section_eventNote
-/           dt
-/             i.fa.fa-fw.fa-calendar
-/             | &nbsp;
-/             | 開催日時
-/           dd
-/             span.date
-/               | 2017
-/             span.time
-/               | 00:00
-/           dt
-/             i.fa.fa-fw.fa-map-marker
-/             | &nbsp;
-/             | 開催場所
-/           dd
-/             | 調整中
+section.section
+  .container
+    h2.section_title 開催概要
+    .row
+      .col-sm-6
+        / <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA752IhT1WuIsrSVesJ6U08Cm6qgsRhqbI"></script>
+        / <script type="text/javascript">google.maps.event.addDomListener(window,'load',function(){var lat = 35.658042;var lng = 139.698262;var latlng = new google.maps.LatLng(lat, lng);var map = document.getElementById('map');var options = {zoom: 16,center: latlng,mapTypeId: google.maps.MapTypeId.ROADMAP,scrollwheel: false};var mapObj = new google.maps.Map(map, options);var marker = new google.maps.Marker({position: latlng,map: mapObj});});</script>
+        / <div id="map" style="width:100%; height: 300px;"></div>
+        
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.151386716897!2d139.78222111525923!3d35.697892080190485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188eb22005019d%3A0x91532b56d2b7a7af!2z44CSMTExLTAwNTMg5p2x5Lqs6YO95Y-w5p2x5Yy65rWF6I2J5qmL77yR5LiB55uu77yS77yS4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1504961200638" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+        
+      .col-sm-6.section_body
+        dl.section_eventNote
+          dt
+            i.fa.fa-fw.fa-calendar
+            | &nbsp;
+            | 開催日時
+          dd
+            span.date
+              | 2017/11/14 (火) ~ 15 (水)
+            span.time
+              | 10:00~19:30 (15日: ~ 18:00)
+          dt
+            i.fa.fa-fw.fa-map-marker
+            | &nbsp;
+            | 開催場所
+          dd
+            | ヒューリック浅草橋 2階 ヒューリックホール
+            br
+            | 〒111-0053 東京都台東区浅草橋1-22-16 ヒューリック浅草橋ビル 2階 HULIC HALL
+            br
+            <a href="http://hulic-hall.com/access/" target="_blank">http://hulic-hall.com/access/</a>
 
 / section.section
 /   .container
@@ -107,42 +107,42 @@ section.section
 /         h1.information_title = link_to article.title, article.url
 /         time.information_time = article.date.strftime('%Y/%m/%d')
 
-/ section.section
-/   .container
-/     h2.section_title OUR SPONSORS
-/     h3.sponsors_title PLATINUM SPONSORS
-/     .sponsors_list
-/       - data.sponsors.platina.each do |platina|
-/         = link_to image_tag(platina.logo_image_url), platina.url, class: 'sponsors_list_item-platina', target: '_blank', title: platina.name, 'data-toggle' => 'tooltip'
-/     h3.sponsors_title GOLD SPONSORS
-/     .sponsors_list
-/       - data.sponsors.golds.each do |golds|
-/         = link_to image_tag(golds.logo_image_url), golds.url, class: 'sponsors_list_item-golds', target: '_blank', title: golds.name, 'data-toggle' => 'tooltip'
-/     - if data.sponsors.silvers.present?
-/       h3.sponsors_title SILVER SPONSORS
-/       .sponsors_list
-/         - data.sponsors.silvers.each do |silvers|
-/           = link_to image_tag(silvers.logo_image_url), silvers.url, class: 'sponsors_list_item-silvers', target: '_blank', title: silvers.name, 'data-toggle' => 'tooltip'
-/     h3.sponsors_title DRINK SPONSORS
-/     .sponsors_list
-/       - data.sponsors.drinks.each do |drinks|
-/         = link_to image_tag(drinks.logo_image_url), drinks.url, class: 'sponsors_list_item-drinks', target: '_blank', title: drinks.name, 'data-toggle' => 'tooltip'
-/     h3.sponsors_title 👕 T-SHIRTS SPONSOR
-/     .sponsors_list
-/       - data.sponsors.goods.each do |goods|
-/         = link_to image_tag(goods.logo_image_url), goods.url, class: 'sponsors_list_item-goods', target: '_blank', title: goods.name, 'data-toggle' => 'tooltip'
-/     h3.sponsors_title MEDIA SPONSORS
-/     .sponsors_list
-/       - data.sponsors.medias.each do |medias|
-/         = link_to image_tag(medias.logo_image_url), medias.url, class: 'sponsors_list_item-medias', target: '_blank', title: medias.name, 'data-toggle' => 'tooltip'
-/         
-/     .sponsors_description
-/       h4. スポンサーについて
-/       p Japan Product Manager Conference 2016 では、本カンファレンスにご協賛いただけるスポンサー企業を募集しております。プロダクト開発の現場で活躍するプロダクトマネージャーに、自社をアピールできるまたとない機会です。協賛プログラムの詳細については、以下の資料をご参照ください。皆様のご支援をお待ちしております。
-/       = link_to '/assets/files/pmconfjp_sponsorship_letter.pdf', target: '_blank', rel: 'nofollow'
-/         i.fa.fa-file-pdf-o
-/         | &nbsp;
-/         | Japan Product Manager Conference 2016 ご協賛のお願い
+section.section
+  .container
+    h2.section_title OUR SPONSORS
+    / h3.sponsors_title PLATINUM SPONSORS
+    / .sponsors_list
+    /   - data.sponsors.platina.each do |platina|
+    /     = link_to image_tag(platina.logo_image_url), platina.url, class: 'sponsors_list_item-platina', target: '_blank', title: platina.name, 'data-toggle' => 'tooltip'
+    / h3.sponsors_title GOLD SPONSORS
+    / .sponsors_list
+    /   - data.sponsors.golds.each do |golds|
+    /     = link_to image_tag(golds.logo_image_url), golds.url, class: 'sponsors_list_item-golds', target: '_blank', title: golds.name, 'data-toggle' => 'tooltip'
+    / - if data.sponsors.silvers.present?
+    /   h3.sponsors_title SILVER SPONSORS
+    /   .sponsors_list
+    /     - data.sponsors.silvers.each do |silvers|
+    /       = link_to image_tag(silvers.logo_image_url), silvers.url, class: 'sponsors_list_item-silvers', target: '_blank', title: silvers.name, 'data-toggle' => 'tooltip'
+    / h3.sponsors_title DRINK SPONSORS
+    / .sponsors_list
+    /   - data.sponsors.drinks.each do |drinks|
+    /     = link_to image_tag(drinks.logo_image_url), drinks.url, class: 'sponsors_list_item-drinks', target: '_blank', title: drinks.name, 'data-toggle' => 'tooltip'
+    / h3.sponsors_title 👕 T-SHIRTS SPONSOR
+    / .sponsors_list
+    /   - data.sponsors.goods.each do |goods|
+    /     = link_to image_tag(goods.logo_image_url), goods.url, class: 'sponsors_list_item-goods', target: '_blank', title: goods.name, 'data-toggle' => 'tooltip'
+    / h3.sponsors_title MEDIA SPONSORS
+    / .sponsors_list
+    /   - data.sponsors.medias.each do |medias|
+    /     = link_to image_tag(medias.logo_image_url), medias.url, class: 'sponsors_list_item-medias', target: '_blank', title: medias.name, 'data-toggle' => 'tooltip'
+        
+    .sponsors_description
+      h4. スポンサーについて
+      p Japan Product Manager Conference 2017 では、本カンファレンスにご協賛いただけるスポンサー企業を募集しております。プロダクト開発の現場で活躍するプロダクトマネージャーに、自社をアピールできるまたとない機会です。協賛プログラムの詳細については、以下の資料をご参照ください。皆様のご支援をお待ちしております。
+      = link_to 'http://2017.pmconf.jp/assets/files/pmconfjp_sponsorship_letter.pdf', target: '_blank', rel: 'nofollow'
+        i.fa.fa-file-pdf-o
+        | &nbsp;
+        | Japan Product Manager Conference 2017 ご協賛のお願い
 
 / section.section
 /   .container
@@ -158,12 +158,12 @@ section.section
 /                 i.fa.fa-fw.fa-external-link
 /                 =< jobs.title
 
-/ section.section
-/   .container
-/     h2.section_title OFFICIAL COMMUNITIES
-/     .sponsors_list
-/       - data.sponsors.communities.each do |communities|
-/         = link_to image_tag(communities.logo_image_url), communities.url, class: 'sponsors_list_item-drinks', target: '_blank', title: communities.name, 'data-toggle' => 'tooltip'
+section.section
+  .container
+    h2.section_title OFFICIAL COMMUNITIES
+    .sponsors_list
+      - data.sponsors.communities.each do |communities|
+        = link_to image_tag(communities.logo_image_url), communities.url, class: 'sponsors_list_item-drinks', target: '_blank', title: communities.name, 'data-toggle' => 'tooltip'
 
 section.section.hidden-xs
   .container
