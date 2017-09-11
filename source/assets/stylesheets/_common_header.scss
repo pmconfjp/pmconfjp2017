@@ -1,6 +1,6 @@
 .commonHeader {
   position: fixed;
-  background-color: $brand-color;
+  background-color: darken($brand-color, 2%);
   height: $header-height;
   width: 100%;
   z-index: 1;
