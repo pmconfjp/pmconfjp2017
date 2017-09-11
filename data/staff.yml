@@ -52,6 +52,14 @@ organizers:
     link: http://htomine.hateblo.jp/
     profile_image_url: /assets/images/profile_images/htomine.png
 secretariat:
+  - name: 関 満徳 (事務局長)
+    organization: ビバーチェプラス合同会社
+    title: ITアーキテクト
+    twitter: https://twitter.com/fullvirtue
+    github: https://github.com/fullvirtue
+    facebook: https://facebook.com/fullvirtue
+    link: http://fullvirtue.com/
+    profile_image_url: /assets/images/profile_images/fullvirtue.png
   - name: 田中 正巳
     organization: 株式会社サイバーエージェント
     title: AIRTRACK 開発責任者兼スクラムマスター
