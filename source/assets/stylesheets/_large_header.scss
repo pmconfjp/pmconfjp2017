@@ -63,11 +63,12 @@
     &_button {
       border-radius: 4px;
       padding: 10px 50px;
-      font-size: 18px;
+      font-size: 14px;
       font-weight: bold;
       color: $brand-sub-text-color;
       background-color: $brand-sub-color;
       transition: all .1s ease-in-out;
+      border: 3px double #fff;
 
       &:hover,
       &:active,
