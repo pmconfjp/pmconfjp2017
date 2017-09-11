@@ -1,39 +1,61 @@
 organizers:
-  - name: fullvirtue
+  - name: 関 満徳 (実行委員長)
+    organization: グロースエクスパートナーズ株式会社
+    title: ITアーキテクト
     twitter: https://twitter.com/fullvirtue
     github: https://github.com/fullvirtue
     facebook: https://facebook.com/fullvirtue
     link: http://fullvirtue.com/
     profile_image_url: /assets/images/profile_images/fullvirtue.png
-  - name: takoratta
+  - name: 及川 卓也
+    organization: フリーランス
+    title: プロダクトマネージャー
     twitter: https://twitter.com/takoratta
     github: https://github.com/takoratta
     facebook: https://facebook.com/takoratta
     profile_image_url: /assets/images/profile_images/takoratta.jpeg
-  - name: aomegane
+  - name: 坂本 登史文
+    organization: freee株式会社
+    title: 執行役員/プロダクトマネージャー
     twitter: https://twitter.com/aomegane1985
     github: https://github.com/aomegane
     facebook: https://facebook.com/sakamoto10423
     profile_image_url: /assets/images/profile_images/aomegane.jpeg
-  - name: mizukitanno
+  - name: 丹野 瑞紀
+    organization: 株式会社ビズリーチ
+    title: プロダクトマネージャー
     twitter: https://twitter.com/mizukitanno
     github: https://github.com/mizukitanno
     facebook: https://facebook.com/mizukitanno
     link: http://tannomizuki.hatenablog.com/
     profile_image_url: /assets/images/profile_images/mizukitanno.png
-  - name: miuranobuaki
+  - name: 三浦 伸明
+    organization: 株式会社サイバーエージェント
+    title: RightSegment プロダクトオーナー
     twitter: https://twitter.com/miuranobuak
     github: https://github.com/miuranobuaki
     facebook: https://www.facebook.com/nobuaki.miura
     profile_image_url: /assets/images/blank_user.png
-  - name: ykmc09
+  - name: 横道 稔
+    organization: 株式会社サイバーエージェント
+    title: AI Messenger プロダクトオーナー
     twitter: https://twitter.com/ykmc09_dev
     github: https://github.com/ykmc09
     facebook: https://facebook.com/ykmc09
     profile_image_url: /assets/images/profile_images/ykmc09.jpeg
-  - name: htomine
+  - name: 東峰 裕之
+    organization: Increments株式会社
+    title: デザイナー/コミュニティマネージャー
     twitter: https://twitter.com/htomine
     github: https://github.com/htomine
     facebook: https://facebook.com/htomine
     link: http://htomine.hateblo.jp/
     profile_image_url: /assets/images/profile_images/htomine.png
+secretariat:
+  - name: 田中 正巳
+    organization: 株式会社サイバーエージェント
+    title: AIRTRACK 開発責任者兼スクラムマスター
+    twitter: https://twitter.com/b_marsa
+    github: https://github.com/b-marsa
+    facebook: https://www.facebook.com/ysl882orbmarsa
+    profile_image_url: /assets/images/blank_user.png
