@@ -61,14 +61,15 @@
     margin: 40px auto 20px;
 
     &_button {
-      border-radius: 4px;
       padding: 10px 50px;
       font-size: 14px;
       font-weight: bold;
       color: $brand-sub-text-color;
       background-color: $brand-sub-color;
       transition: all .1s ease-in-out;
-      border: 3px double #fff;
+      border: 3px solid #fff;
+      border-radius: 22px;
+      box-shadow: 0 2px 3px rgba(0,0,0,.1);
 
       &:hover,
       &:active,
