@@ -6,9 +6,28 @@
   color: #fff;
   text-shadow: 0 2px 3px rgba(0,0,0,.1);
 
+  .containers {
+    position: relative;
+    z-index: 1;
+  }
+
+  canvas {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    z-index: 0;
+    opacity: 0;
+    animation: show .4s both;
+  }
+
+  @keyframes show {
+  	0%   { opacity: 0; }
+  	100% { opacity:.4; }
+  }
+
   &_siteCaption {
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 30px;
 
     @media (max-width: $screen-xs-max) {
       display: none;
