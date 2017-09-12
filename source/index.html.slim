@@ -13,7 +13,7 @@
         = link_to 'https://pmconfjp.doorkeeper.jp/events/64845', class: 'largeHeader_signup_button', title: 'Doorkeeperで申込み', target: '_blank' do
          i.fa.fa-external-link
          | &nbsp;
-         | 参加申込み        
+         | 参加申込み
 section.section
   .container
     h2.section_title Japan Product Manager Conference とは
@@ -30,9 +30,9 @@ section.section
         / <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA752IhT1WuIsrSVesJ6U08Cm6qgsRhqbI"></script>
         / <script type="text/javascript">google.maps.event.addDomListener(window,'load',function(){var lat = 35.658042;var lng = 139.698262;var latlng = new google.maps.LatLng(lat, lng);var map = document.getElementById('map');var options = {zoom: 16,center: latlng,mapTypeId: google.maps.MapTypeId.ROADMAP,scrollwheel: false};var mapObj = new google.maps.Map(map, options);var marker = new google.maps.Marker({position: latlng,map: mapObj});});</script>
         / <div id="map" style="width:100%; height: 300px;"></div>
-        
+
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.151386716897!2d139.78222111525923!3d35.697892080190485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188eb22005019d%3A0x91532b56d2b7a7af!2z44CSMTExLTAwNTMg5p2x5Lqs6YO95Y-w5p2x5Yy65rWF6I2J5qmL77yR5LiB55uu77yS77yS4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1504961200638" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-        
+
       .col-sm-6.section_body
         dl.section_eventNote
           dt
@@ -55,11 +55,44 @@ section.section
             br
             <a href="http://hulic-hall.com/access/" target="_blank">http://hulic-hall.com/access/</a>
 
-/ section.section
-/   .container
-/     h2.section_title SPEAKERS
-/     .speakers
-/       .speakers_list
+section.section
+  .container
+    h2.section_title SESSIONS
+    .speakers
+      .speakers_timetable
+        .speakers_timetable_item
+          | なぜ今プロダクトマネジメントか
+        .speakers_timetable_item
+          | PMトークセッション
+        .speakers_timetable_item
+          | PMに期待するもの
+        .speakers_timetable_item
+          | 新しいテクノロジーの潮流とどう向き合うか
+        .speakers_timetable_item
+          | ユーザー理解（データ分析）
+        .speakers_timetable_item
+          | ビジネスモデルを設計する
+        .speakers_timetable_item
+          | ユーザー理解（インサイトの発見）
+        .speakers_timetable_item
+          | 良いUXをデザインする
+        .speakers_timetable_item
+          | 熱狂的チームを作る
+        .speakers_timetable_item
+          | PMの採用と育成
+        .speakers_timetable_item
+          | 日本のプロダクトマネジメント普及の道のり、その先にあるものは何か？
+      .speakers_text
+        | プロダクトマネジメントを様々な側面から切り取ったテーマに沿って、それぞれの領域のプロたちに登壇いただきます。
+        | それ以外にも、ワールドカフェ形式のテーマトークやディープにプロダクトマネジメントを掘り下げるセッションなど、
+        | 広く深いプロダクトマネジメントの世界を見渡せる2日間です。
+
+      .speakers_schedulelink
+        = link_to '/schedule', class: 'btn' do
+          i.fa.fa-arrow-circle-right
+          | &nbsp;
+          | タイムテーブルを見る
+      / .speakers_list
 /         - data.speakers.keynotes.each do |keynotes|
 /           .speakers_list_item
 /             = image_tag keynotes.profile_image_url, class: 'speakers_list_image'
@@ -91,11 +124,8 @@ section.section
 /               .speakers_list_name = others.name
 /               .speakers_list_organization = others.organization
 /               .speakers_list_title = others.title
-/       .speakers_schedulelink
-/         = link_to '/schedule', class: 'btn' do
-/           i.fa.fa-arrow-circle-right
-/           | &nbsp;
-/           | タイムテーブル を確認する
+
+
 /       .speakers_schedulelink
 /         = link_to '/documents', class: 'btn' do
 /           i.fa.fa-arrow-circle-right
@@ -140,7 +170,7 @@ section.section
     / .sponsors_list
     /   - data.sponsors.medias.each do |medias|
     /     = link_to image_tag(medias.logo_image_url), medias.url, class: 'sponsors_list_item-medias', target: '_blank', title: medias.name, 'data-toggle' => 'tooltip'
-        
+
     .sponsors_description
       h4. スポンサーについて
       p Japan Product Manager Conference 2017 では、本カンファレンスにご協賛いただけるスポンサー企業を募集しております。プロダクト開発の現場で活躍するプロダクトマネージャーに、自社をアピールできるまたとない機会です。協賛プログラムの詳細については、以下の資料をご参照ください。皆様のご支援をお待ちしております。
