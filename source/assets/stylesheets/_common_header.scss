@@ -1,9 +1,9 @@
 .commonHeader {
   position: fixed;
-  background-color: darken($brand-color, 2%);
+  background-color: #ffcf23;
   height: $header-height;
   width: 100%;
-  z-index: 1;
+  z-index: 2;
   font-weight: bold;
   text-shadow: 0 2px 3px rgba(0,0,0,.1);
 
