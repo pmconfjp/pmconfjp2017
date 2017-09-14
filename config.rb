@@ -47,11 +47,11 @@ page 'sitemap.xml', layout: 'xml_layout'
 helpers do
   def page_title
     if current_page.data.title
-      "#{current_page.data.title} | プロダクトマネージャーカンファレンス 2017"
+      "#{current_page.data.title} | プロダクトマネージャー・カンファレンス 2017"
     elsif yield_content(:title)
-      "#{yield_content(:title)} | プロダクトマネージャーカンファレンス 2017"
+      "#{yield_content(:title)} | プロダクトマネージャー・カンファレンス 2017"
     else
-      'プロダクトマネージャーカンファレンス 2017'
+      'プロダクトマネージャー・カンファレンス 2017'
     end
   end
 

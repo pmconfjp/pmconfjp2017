@@ -1,4 +1,4 @@
-## Japan pmconf 2017
+## pmconf 2017
 
 ## 本番環境への反映
 masterブランチに変更があると、TravisCIが自動的にgh-pagesブランチへデプロイしてくれます。
