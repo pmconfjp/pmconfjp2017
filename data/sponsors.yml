@@ -6,18 +6,27 @@
 #   - name: 株式会社メルカリ
 #     url: https://www.mercari.com/jp/about/corporate/
 #     logo_image_url: /assets/images/sponsors/mercari.png
+
+booths:
+  - name: freee株式会社
+    url: https://www.freee.co.jp/
+    logo_image_url: /assets/images/sponsors/freee.png
+
 silvers:
   - name: GMOペパボ株式会社
     url: https://pepabo.com/
     logo_image_url: /assets/images/sponsors/gmopepabo.png
+
 drinks:
   - name: サイボウズ株式会社
     url: https://cybozu.co.jp/company/job/recruitment/list/product_manager.html
     logo_image_url: /assets/images/sponsors/cybozu.png
+
 # medias:
 #   - name: CAREER HACK
 #     url: http://careerhack.en-japan.com/
 #     logo_image_url: /assets/images/sponsors/careerhack.jpg
+
 communities:
   - name: POStudy ～アジャイル・プロダクトマネジメント研究会～
     url: http://www.postudy.com/
@@ -25,6 +34,7 @@ communities:
   - name: Product Managers Japan (PMJP)
     url: http://productmanagers.jp/
     logo_image_url: /assets/images/sponsors/pmjp.png
+
 # goods:
 #   - name: 株式会社spice life
 #     url: http://spicelife.jp
