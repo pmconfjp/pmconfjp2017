@@ -6,14 +6,14 @@
 #   - name: 株式会社メルカリ
 #     url: https://www.mercari.com/jp/about/corporate/
 #     logo_image_url: /assets/images/sponsors/mercari.png
-# silvers:
-#   - name: 株式会社お金のデザイン
-#     url: https://theo.blue/
-#     logo_image_url: /assets/images/sponsors/money-design.png
-# drinks:
-#   - name: スマートニュース株式会社
-#     url: http://about.smartnews.com/ja/about/
-#     logo_image_url: /assets/images/sponsors/smartnews.png
+silvers:
+  - name: GMOペパボ株式会社
+    url: https://pepabo.com/
+    logo_image_url: /assets/images/sponsors/gmopepabo.png
+drinks:
+  - name: サイボウズ株式会社
+    url: https://cybozu.co.jp/company/job/recruitment/list/product_manager.html
+    logo_image_url: /assets/images/sponsors/cybozu.png
 # medias:
 #   - name: CAREER HACK
 #     url: http://careerhack.en-japan.com/
