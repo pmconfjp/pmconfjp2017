@@ -1,16 +1,21 @@
-# platina:
-#   - name: 株式会社ジャストシステム
-#     url: http://www.justsystems.com/jp/
-#     logo_image_url: /assets/images/sponsors/justsystem.png
-# golds:
-#   - name: 株式会社メルカリ
-#     url: https://www.mercari.com/jp/about/corporate/
-#     logo_image_url: /assets/images/sponsors/mercari.png
+platina:
+  - name: 株式会社メルカリ
+    url: https://www.mercari.com/jp/about/corporate/
+    logo_image_url: /assets/images/sponsors/mercari.png
+
+golds:
+  - name: 株式会社ビズリーチ
+    url: http://www.bizreach.co.jp/corporate_info/profile/
+    logo_image_url: /assets/images/sponsors/bizreach.png
 
 booths:
   - name: freee株式会社
     url: https://www.freee.co.jp/
     logo_image_url: /assets/images/sponsors/freee.png
+
+#   - name: Web Expert Draft
+#     url: https://job-draft.jp/web_expert_draft
+#     logo_image_url: /assets/images/sponsors/webexpertdraft.png
 
 silvers:
   - name: GMOペパボ株式会社
