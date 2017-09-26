@@ -7,6 +7,9 @@ golds:
   - name: 株式会社ビズリーチ
     url: http://www.bizreach.co.jp/corporate_info/profile/
     logo_image_url: /assets/images/sponsors/bizreach.png
+  - name: 株式会社ディー・エヌ・エー
+    url: http://dena.com/jp/recruit/career/
+    logo_image_url: /assets/images/sponsors/dena.png
 
 booths:
   - name: freee株式会社
