@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htomine/pmconf.git"
+    "url": "git+https://github.com/fullvirtue/pmconfjp2017.git"
   },
-  "author": "Hiroyuki Tomine",
+  "author": "Mitsunori Seki",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/htomine/pmconf/issues"
+    "url": "https://github.com/fullvirtue/pmconfjp2017/issues"
   },
-  "homepage": "https://github.com/htomine/pmconf#readme",
+  "homepage": "https://github.com/fullvirtue/pmconfjp2017#readme",
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
     "css-loader": "^0.25.0",
