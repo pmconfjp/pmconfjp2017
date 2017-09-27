@@ -167,6 +167,10 @@ section.section
     .sponsors_list
       - data.sponsors.drinks.each do |drinks|
         = link_to image_tag(drinks.logo_image_url), drinks.url, class: 'sponsors_list_item-drinks', target: '_blank', title: drinks.name, 'data-toggle' => 'tooltip'
+    / h3.sponsors_title LOGO SPONSORS
+    / .sponsors_list
+    /   - data.sponsors.logos.each do |logos|
+    /     = link_to image_tag(logos.logo_image_url), logos.url, class: 'sponsors_list_item-logos', target: '_blank', title: logos.name, 'data-toggle' => 'tooltip'
     / h3.sponsors_title 👕 T-SHIRTS SPONSOR
     / .sponsors_list
     /   - data.sponsors.goods.each do |goods|
