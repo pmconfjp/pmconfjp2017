@@ -2,6 +2,9 @@ platina:
   - name: 株式会社メルカリ
     url: https://www.mercari.com/jp/about/corporate/
     logo_image_url: /assets/images/sponsors/mercari.png
+  - name: 楽天株式会社
+    url: https://corp.rakuten.co.jp/careers/jobs/producer/
+    logo_image_url: /assets/images/sponsors/rakuten.png
 
 golds:
   - name: 株式会社ビズリーチ
