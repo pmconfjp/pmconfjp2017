@@ -1,8 +1,10 @@
 .commonHeader
   .container
     = link_to '/', class: 'commonHeader_siteLogo' do
-      h1.commonHeader_siteLogo
+      h1.commonHeader_siteLogo.hidden-xs
         | Product Manager Conference 2017
+      h1.commonHeader_siteLogo.hidden-sm.hidden-md.hidden-lg
+        | pmconf 2017
 
     nav.commonHeaderNavigation
       ul.list-unstyled
