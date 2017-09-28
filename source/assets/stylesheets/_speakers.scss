@@ -97,6 +97,10 @@
       justify-content: center;
       text-shadow: 0 2px 3px rgba(0,0,0,.1);
 
+      @media (max-width: $screen-xs-max) {
+        margin-right: 0;
+      }
+
       &:nth-child(1),
       &:nth-child(6) { background-color: #3D348B }
       &:nth-child(2),
