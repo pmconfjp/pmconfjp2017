@@ -17,6 +17,10 @@
       family: $font-family-damion;
       weight: normal;
     }
+
+    @media (max-width: $screen-xs-max) {
+      margin: 0 0 3px;
+    }
   }
 
   @media (max-width: $screen-xs-max) {
