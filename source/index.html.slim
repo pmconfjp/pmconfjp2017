@@ -188,19 +188,19 @@ section.section
         | &nbsp;
         | Product Manager Conference 2017 ご協賛のお願い
 
-/ section.section
-/   .container
-/     .sponsorJobs
-/       h2.section_title 📣 PRODUCT MANAGER JOBS
-/       p.section_subTitle スポンサー企業のプロダクトマネージャー求人です
-/       .sponsorJobs_table
-/         - data.jobs.each do |jobs|
-/           .sponsorJobs_item
-/             .sponsorJobs_item_organization = jobs.organization
-/             .sponsorJobs_item_title
-/               = link_to jobs.url, class: 'sponsorJobs_item_title_link', target: '_blank' do
-/                 i.fa.fa-fw.fa-external-link
-/                 =< jobs.title
+section.section
+  .container
+    .sponsorJobs
+      h2.section_title 📣 PRODUCT MANAGER JOBS
+      p.section_subTitle スポンサー企業のプロダクトマネージャー求人です
+      .sponsorJobs_table
+        - data.jobs.each do |jobs|
+          .sponsorJobs_item
+            .sponsorJobs_item_organization = jobs.organization
+            .sponsorJobs_item_title
+              = link_to jobs.url, class: 'sponsorJobs_item_title_link', target: '_blank' do
+                i.fa.fa-fw.fa-external-link
+                =< jobs.title
 
 section.section
   .container
