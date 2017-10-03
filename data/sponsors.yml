@@ -8,6 +8,9 @@ platina:
   - name: 株式会社サイバーエージェント アドテクスタジオ
     url: https://cyberagent-career.jp/recruit/joboffer/81/165320/1244-1805
     logo_image_url: /assets/images/sponsors/cyberagent.png
+  - name: LINE株式会社
+    url: https://linecorp.com/ja
+    logo_image_url: /assets/images/sponsors/line.png
 
 golds:
   - name: 株式会社ビズリーチ
@@ -21,6 +24,9 @@ booths:
   - name: freee株式会社
     url: https://www.freee.co.jp/
     logo_image_url: /assets/images/sponsors/freee.png
+  - name: 株式会社Speee
+    url: http://www.speee.jp/
+    logo_image_url: /assets/images/sponsors/speee.png
 
 #   - name: Web Expert Draft
 #     url: https://job-draft.jp/web_expert_draft
@@ -30,6 +36,9 @@ silvers:
   - name: GMOペパボ株式会社
     url: https://pepabo.com/
     logo_image_url: /assets/images/sponsors/gmopepabo.png
+  - name: 株式会社エウレカ
+    url: https://eure.jp/
+    logo_image_url: /assets/images/sponsors/eureka.png
 
 drinks:
   - name: サイボウズ株式会社
