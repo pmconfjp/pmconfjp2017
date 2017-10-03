@@ -1,6 +1,6 @@
 ---
-title: [ƒVƒ‡[ƒgƒg[ƒNƒZƒbƒVƒ‡ƒ“iƒ‰ƒ“ƒ`•t‚«j]
-description: "[ƒVƒ‡[ƒgƒg[ƒNƒZƒbƒVƒ‡ƒ“iƒ‰ƒ“ƒ`•t‚«j]"
+title: [ã‚·ãƒ§ãƒ¼ãƒˆãƒˆãƒ¼ã‚¯ã‚»ãƒƒã‚·ãƒ§ãƒ³ï¼ˆãƒ©ãƒ³ãƒä»˜ãï¼‰]
+description: "[ã‚·ãƒ§ãƒ¼ãƒˆãƒˆãƒ¼ã‚¯ã‚»ãƒƒã‚·ãƒ§ãƒ³ï¼ˆãƒ©ãƒ³ãƒä»˜ãï¼‰]"
 date: 2017-09-14 10:04
 author:
 category: sessions
