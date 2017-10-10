@@ -7,6 +7,10 @@ normals:
   - name: 及川 卓也
     organization: フリーランス
     profile_image_url: /assets/images/profile_images/takoratta.jpeg
+  - name: 佐藤 裕介
+    organization: 株式会社フリークアウト・ホールディングス
+    title:  代表取締役社長
+    profile_image_url: /assets/images/blank_user.png
   - name: 岡田 陽介
     organization: 株式会社ABEJA
     title: 代表取締役社長 CEO 兼 CTO
