@@ -14,7 +14,7 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
     /   | 時刻や内容に変更が入る可能性があります。ご了承ください。
 
     h2.schedule_title
-      | Day1: 11/14 (火)
+      | Day1: 2017/11/14 (火)
     / ul.nav.nav-tabs
     /   li.active
     /     =link_to '10/24 (月)', '#day1', 'data-toggle' => 'tab'
@@ -143,52 +143,74 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
               | Break
           .scheduleTable_line
             .scheduleTable_line_time
-              | 15:00 - 15:30
+              | 15:00 - 16:00
               .scheduleTable_line_time_min
-               | 30min
+               | 60min
             .scheduleTable_line_session
               .scheduleTable_line_speakerIcon
                 = image_tag 'pmconf_ico.png', width: '100', height: '100'
               .scheduleTable_line_descriptions
                 .scheduleTable_line_title
-                  | ケーススタディ
+                  | ケーススタディ #1
                 .scheduleTable_line_speaker
                   | 登壇者調整中
           .scheduleTable_line
             .scheduleTable_line_time
-              | 15:00 - 15:30
+              | 16:00 - 16:20
               .scheduleTable_line_time_min
-               | 30min
+               | 20min
             .scheduleTable_line_session-all.break
               | Break
           .scheduleTable_line
             .scheduleTable_line_time
-              | 16:00 - 17:40
+              | 16:20 - 16:50
               .scheduleTable_line_time_min
-               | 1h 40min
+               | 30min
             .scheduleTable_line_session
               .scheduleTable_line_speakerIcon
                 = image_tag 'pmconf_ico.png', width: '100', height: '100'
               .scheduleTable_line_descriptions
                 .scheduleTable_line_title
-                  | ワールドカフェ
+                  | ケーススタディ #2
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
           .scheduleTable_line
             .scheduleTable_line_time
-              | 17:40 - 17:50
+              | 16:50 - 17:05
+              .scheduleTable_line_time_min
+               | 15min
+            .scheduleTable_line_session-all.break
+              | Break
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 17:05 - 18:05
+              .scheduleTable_line_time_min
+               | 60min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | ケーススタディ #3
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 18:05 - 18:15
               .scheduleTable_line_time_min
                | 10min
             .scheduleTable_line_session-all.break
               | クロージング
           .scheduleTable_line
             .scheduleTable_line_time
-              | 17:50 - 19:30
+              | 18:15 - 21:45
               .scheduleTable_line_time_min
-               | 1h 40min
+               | 3h 30min
             .scheduleTable_line_session-all.break
               | ネットワーキング
   .schedule
     h2.schedule_title
-      | Day2: 11/15 (水)
+      | Day2: 2017/11/15 (水)
     .tab-content
       .tab-pane.active#day1
         .scheduleTable
@@ -199,102 +221,14 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
               | Registration
           .scheduleTable_line
             .scheduleTable_line_time
-              | 10:00 - 10:15
+              | 10:00 - 10:20
               .scheduleTable_line_time_min
-               | 15min
+               | 20min
             .scheduleTable_line_session-all.break
               | Welcome Talk
           .scheduleTable_line
             .scheduleTable_line_time
-              | 10:15 - 10:45
-              .scheduleTable_line_time_min
-               | 30min
-            .scheduleTable_line_session
-              .scheduleTable_line_speakerIcon
-                = image_tag 'pmconf_ico.png', width: '100', height: '100'
-              .scheduleTable_line_descriptions
-                .scheduleTable_line_title
-                  | ビジネスモデルを設計する
-                .scheduleTable_line_speaker
-                  | 登壇者調整中
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 10:45 - 11:00
-              .scheduleTable_line_time_min
-               | 15min
-            .scheduleTable_line_session-all.break
-              | Break
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 11:00 - 11:30
-              .scheduleTable_line_time_min
-               | 30min
-            .scheduleTable_line_session
-              .scheduleTable_line_speakerIcon
-                = image_tag 'pmconf_ico.png', width: '100', height: '100'
-              .scheduleTable_line_descriptions
-                .scheduleTable_line_title
-                  | ユーザー理解（行動観察）
-                .scheduleTable_line_speaker
-                  | 登壇者調整中
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 11:30 - 11:45
-              .scheduleTable_line_time_min
-               | 15min
-            .scheduleTable_line_session-all.break
-              | Break
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 11:45 - 12:15
-              .scheduleTable_line_time_min
-               | 30min
-            .scheduleTable_line_session
-              .scheduleTable_line_speakerIcon
-                = image_tag 'pmconf_ico.png', width: '100', height: '100'
-              .scheduleTable_line_descriptions
-                .scheduleTable_line_title
-                  | 良いUXをデザインする
-                .scheduleTable_line_speaker
-                  | 登壇者調整中
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 12:20 - 13:30
-              .scheduleTable_line_time_min
-               | 1h 15min
-               br
-               | (15min x 4)
-            .scheduleTable_line_session
-              .scheduleTable_line_speakerIcon
-                = image_tag 'pmconf_ico.png', width: '100', height: '100'
-              .scheduleTable_line_descriptions
-                .scheduleTable_line_title
-                  | スポンサーセッション(ランチ付き）
-                .scheduleTable_line_speaker
-                  | 30min x 2
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 13:30 - 14:30
-              .scheduleTable_line_time_min
-               | 1h
-            .scheduleTable_line_session
-              .scheduleTable_line_speakerIcon
-                = image_tag 'pmconf_ico.png', width: '100', height: '100'
-              .scheduleTable_line_descriptions
-                .scheduleTable_line_title
-                  | ショートトークセッション
-                .scheduleTable_line_speaker
-                  | 登壇者調整中
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 14:30 - 15:00
-              .scheduleTable_line_time_min
-               | 30min
-            .scheduleTable_line_session-all.break
-              | Break
-          .scheduleTable_line
-            .scheduleTable_line_time
-              | 15:00 - 15:30
+              | 10:20 - 10:50
               .scheduleTable_line_time_min
                | 30min
             .scheduleTable_line_session
@@ -307,14 +241,119 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
                   | 登壇者調整中
           .scheduleTable_line
             .scheduleTable_line_time
-              | 15:30 - 15:45
+              | 10:50 - 11:35
+              .scheduleTable_line_time_min
+               | 45min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | 熱狂的チームを作る
+                .scheduleTable_line_speaker
+                  | 登壇者調整中          .scheduleTable_line
+            .scheduleTable_line_time
+              | 11:35 - 11:50
               .scheduleTable_line_time_min
                | 15min
             .scheduleTable_line_session-all.break
               | Break
           .scheduleTable_line
             .scheduleTable_line_time
-              | 15:45 - 16:45
+              | 11:50 - 12:20
+              .scheduleTable_line_time_min
+               | 30min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | PM文化醸成と組織化
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 11:30 - 11:45
+              .scheduleTable_line_time_min
+               | 15min
+            .scheduleTable_line_session-all.break
+              | Break
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 12:20 - 13:30
+              .scheduleTable_line_time_min
+               | 1h 10min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | ランチトークセッション
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 13:30 - 14:00
+              .scheduleTable_line_time_min
+               | 30min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | ユーザー理解（行動観察）
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 14:00 - 14:15
+              .scheduleTable_line_time_min
+               | 15min
+            .scheduleTable_line_session-all.break
+              | Break
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 14:15 - 14:45
+              .scheduleTable_line_time_min
+               | 30min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | 良いUXをデザインする
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 14:45 - 15:00
+              .scheduleTable_line_time_min
+               | 15min
+            .scheduleTable_line_session-all.break
+              | Break
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 15:00 - 15:30
+              .scheduleTable_line_time_min
+               | 30min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.png', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                .scheduleTable_line_title
+                  | エンジニアからプロダクトマネージャーへのキャリアパスを考える
+                .scheduleTable_line_speaker
+                  | 登壇者調整中
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 15:30 - 15:50
+              .scheduleTable_line_time_min
+               | 20min
+            .scheduleTable_line_session-all.break
+              | Break
+          .scheduleTable_line
+            .scheduleTable_line_time
+              | 15:50 - 16:50
               .scheduleTable_line_time_min
                | 1h
             .scheduleTable_line_session
@@ -327,14 +366,14 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
                   | 登壇者調整中
           .scheduleTable_line
             .scheduleTable_line_time
-              | 16:45 - 16:55
+              | 16:50 - 17:05
               .scheduleTable_line_time_min
-               | 10min
+               | 15min
             .scheduleTable_line_session-all.break
               | Break
           .scheduleTable_line
             .scheduleTable_line_time
-              | 16:55 - 17:45
+              | 17:05 - 17:55
               .scheduleTable_line_time_min
                | 50min
             .scheduleTable_line_session
@@ -349,9 +388,9 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
                   | 今年のテーマ：広げる、深める、日本のプロダクトマネジメント
           .scheduleTable_line
             .scheduleTable_line_time
-              | 17:45 - 18:00
+              | 17:55 - 18:15
               .scheduleTable_line_time_min
-               | 15min
+               | 20min
             .scheduleTable_line_session-all.break
               | クロージング
           .scheduleTable_line
