@@ -102,6 +102,7 @@
       }
 
       &:nth-child(1),
+      &:nth-child(11),
       &:nth-child(6) { background-color: #3D348B }
       &:nth-child(2),
       &:nth-child(7) { background-color: #97CC04 }
@@ -111,10 +112,10 @@
       &:nth-child(9) { background-color: #F45D01 }
       &:nth-child(5),
       &:nth-child(10) { background-color: #474647 }
-      &:nth-child(11) { background-color: $brand-color; color: $brand-sub-text-color;}
+      &:nth-child(12) { background-color: $brand-color; color: $brand-sub-text-color;}
 
       &:nth-child(1),
-      &:nth-child(11) { width: 100%; }
+      &:nth-child(12) { width: 100%; }
 
       .fa { margin-right: 3px; }
     }
