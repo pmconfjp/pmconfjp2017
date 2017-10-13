@@ -11,7 +11,7 @@ html
 
     .container.commonBody
       article.article[itemscope itemtype='http://schema.org/Article']
-        h2.session_subtitle 
+        h2.session_subtitle
           | セッション情報
         .article_socialButtons.hidden-xs
           .article_tweetBtn
@@ -36,6 +36,7 @@ html
               img[src="https://b.st-hatena.com/images/entry-button/button-only@2x.png"
                   alt="このエントリーをはてなブックマークに追加"
                   width="20" height="20" style="border: none;"]
+        .session_theme[itemprop='theme'] = current_page.data.theme
         h1.session_title[itemporp='name'] = current_page.data.title
         .session_speaker[itemprop='author' itemscope itemtype='http://schema.org/Person']
           - speakers.each do |speaker|
@@ -56,7 +57,7 @@ html
 
         .article_body[itemprop='articleBody']
           = yield
-          
+
           - if current_page.data.author.present?
             .session_introduction
               - speakers.each do |speaker|
@@ -112,7 +113,7 @@ html
 
         .session_footer
           time.session_addDate[itemprop='datePublished']
-            | 追加日: 
+            | 追加日:
             = Date.parse(current_page.data.date).strftime('%Y/%m/%d')
 
     = partial 'shared/common_footer'
