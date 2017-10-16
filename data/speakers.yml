@@ -9,8 +9,9 @@ normals:
     profile_image_url: /assets/images/profile_images/takoratta.jpeg
   - name: 佐藤 裕介
     organization: 株式会社フリークアウト・ホールディングス
-    title:  代表取締役社長
-    profile_image_url: /assets/images/pmconf_ico.png
+    title: 代表取締役社長
+    profile_image_url: /assets/images/speakers/YusukeSato.jpeg
+    profile: "フリークアウト・ホールディングス代表取締役社長。2008年、Googleに入社し、広告製品を担当。2010年末、COOとしてフリークアウトの創業に参画。また、株式会社イグニスにも取締役として参画し、2014年6月にはフリークアウト、イグニス共にマザーズ上場。2017年1月、フリークアウト・ホールディングス共同代表に就任。エンジェル投資家としても活動。"
   - name: 宇野 雅晴
     organization: Omise Japan株式会社
     profile_image_url: /assets/images/pmconf_ico.png
@@ -32,7 +33,7 @@ normals:
   - name: 小久保 浩大郎
     organization: 株式会社CAMPFIRE
     profile_image_url: /assets/images/pmconf_ico.png
-  - name: Capella Yee 
+  - name: Capella Yee
     organization: Google, Inc.
     profile_image_url: /assets/images/pmconf_ico.png
   - name: Bryan Cheng
