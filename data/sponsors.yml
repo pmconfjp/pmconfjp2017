@@ -44,7 +44,9 @@ drinks:
   - name: サイボウズ株式会社
     url: https://cybozu.co.jp/company/job/recruitment/list/product_manager.html
     logo_image_url: /assets/images/sponsors/cybozu.png
-
+  - name: 株式会社サイバーエージェント アドテクスタジオ
+    url: https://cyberagent-career.jp/recruit/joboffer/81/165320/1244-1805
+    logo_image_url: /assets/images/sponsors/cyberagent.png
 # medias:
 #   - name: CAREER HACK
 #     url: http://careerhack.en-japan.com/
