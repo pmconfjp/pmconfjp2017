@@ -39,6 +39,11 @@ normals:
   - name: Kenji Wakamatsu
     organization: 株式会社セールスフォース・ドットコム
     profile_image_url: /assets/images/pmconf_ico.png
+  - name: 木下 慶
+    organization: 株式会社メルカリ
+    title: マネージャー
+    profile_image_url: /assets/images/speakers/KeiKinoshita.png
+    profile: "メルカリUS版、UK版のPMを担当。NTTデータ、ランサーズを経て2016年にメルカリに 入社。"
   - name: 奥泉 直子
     organization: フリーランス・ユーザーリサーチャー
     profile_image_url: /assets/images/speakers/NaokoOkuizumi.png
