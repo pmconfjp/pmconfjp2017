@@ -55,6 +55,11 @@ normals:
   - name: 小久保 浩大郎
     organization: 株式会社CAMPFIRE
     profile_image_url: /assets/images/pmconf_ico.png
+  - name: 木村 衆平
+    organization: 株式会社サイバーエージェント アドテク本部 アドテクスタジオ
+    title: プロダクトマネージャー兼ソフトウェアエンジニア
+    profile_image_url: /assets/images/speakers/ShuheiKimura.png
+    profile: "リターゲティング広告向けプラットフォーム Dynalystのプロダクトマネージャー兼ソフトウェアエンジニア。2011年度サイバーエージェント入社。広告効果計測サービスの開発、海外スマートフォンアプリ市場向けの広告配信サービスの開発を経て、2013年にDynalystのサービス立ち上げ。海外展開でサンフランシスコと東京を行き来しながら、現在に至る。"
   - name: Capella Yee
     organization: Google, Inc.
     profile_image_url: /assets/images/pmconf_ico.png
