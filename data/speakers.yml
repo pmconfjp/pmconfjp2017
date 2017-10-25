@@ -4,6 +4,16 @@ normals:
     title: トラベルサービス開発・運用部 トラベルプロダクトマネジメント課 Senior Manager
     profile_image_url: /assets/images/speakers/MitsuruSaito.jpeg
     profile: "Microsoft JAPAN Program Manager（Evangelist）<br />Microsoft US Program Manager（Windows）<br />Rakuten Senior Manager"
+  - name: 伊豫 健夫
+    organization: 株式会社メルカリ
+    title: 執行役員
+    profile_image_url: /assets/images/speakers/TakeoIyo_2017.png
+    profile: "大学卒業後、松下電器産業株式会社(現パナソニック株式会社)、株式会社野村総合研究所を経て、2006年に株式会社リクルート入社。中長期戦略策定および次世代メディア開発等、大小問わず多数のプロジェクトを牽引したのち、2015年3月株式会社メルカリに参画。2016年8月より執行役員。US版メルカリのプロダクトマネジメントを担当後、2017年4月より国内版メルカリのプロダクト責任者を務める。"
+  - name: 御代田　亮平
+    organization: LINE株式会社
+    title: 開発1センター プロダクトマネージャー
+    profile_image_url: /assets/images/speakers/RyoheiMiyota.png
+    profile: "LINE株式会社にてLogin Platform、及び、開発者向けプロダクト共通のバックエンドシステムのプロダクトマネジメントを担当しています。LINE入社前はGoogleやTwitterで開発者向けプロダクトに携わっていました。最近の日課は10か月の子供との朝の散歩です。"
   - name: 及川 卓也
     organization: フリーランス
     profile_image_url: /assets/images/profile_images/takoratta.jpeg
@@ -29,6 +39,11 @@ normals:
   - name: Kenji Wakamatsu
     organization: 株式会社セールスフォース・ドットコム
     profile_image_url: /assets/images/pmconf_ico.png
+  - name: 木下 慶
+    organization: 株式会社メルカリ
+    title: マネージャー
+    profile_image_url: /assets/images/speakers/KeiKinoshita.png
+    profile: "メルカリUS版、UK版のPMを担当。NTTデータ、ランサーズを経て2016年にメルカリに 入社。"
   - name: 奥泉 直子
     organization: フリーランス・ユーザーリサーチャー
     profile_image_url: /assets/images/speakers/NaokoOkuizumi.png
