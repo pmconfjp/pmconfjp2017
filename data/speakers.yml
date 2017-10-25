@@ -36,9 +36,11 @@ normals:
     organization: 株式会社セールスフォース・ドットコム
     title:  セールスフォース・ベンチャーズ 日本代表
     profile_image_url: /assets/images/pmconf_ico.png
-  - name: Kenji Wakamatsu
-    organization: 株式会社セールスフォース・ドットコム
-    profile_image_url: /assets/images/pmconf_ico.png
+  - name: Ken Wakamatsu
+    organization: 米国セールスフォースドットコム 開発部
+    title: プロダクト マネージメント ディレクター
+    profile_image_url: /assets/images/speakers/KenWakamatsu.png
+    profile: "2011 年に Salesforce に入社。Sales Cloud の開発を中心に複数の特許を申請。 AI 技術を導入した Sales Cloud Einstein を開発。 20 年近くにわたりCisco Systems, Adobe Systems Inc等、シリコンバレーで製品を開発。University of California at Berkeley で学士号を取得。"
   - name: 木下 慶
     organization: 株式会社メルカリ
     title: マネージャー
