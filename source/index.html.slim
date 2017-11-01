@@ -160,10 +160,11 @@ section.section
       .sponsors_list
         - data.sponsors.silvers.each do |silvers|
           = link_to image_tag(silvers.logo_image_url), silvers.url, class: 'sponsors_list_item-silvers', target: '_blank', title: silvers.name, 'data-toggle' => 'tooltip'
-    h3.sponsors_title LOGO SPONSORS
-    .sponsors_list
-      - data.sponsors.logos.each do |logos|
-        = link_to image_tag(logos.logo_image_url), logos.url, class: 'sponsors_list_item-logos', target: '_blank', title: logos.name, 'data-toggle' => 'tooltip'
+    - if data.sponsors.logos.present?
+      h3.sponsors_title LOGO SPONSORS
+      .sponsors_list
+        - data.sponsors.logos.each do |logos|
+          = link_to image_tag(logos.logo_image_url), logos.url, class: 'sponsors_list_item-logos', target: '_blank', title: logos.name, 'data-toggle' => 'tooltip'
     h3.sponsors_title DRINK SPONSORS
     .sponsors_list
       - data.sponsors.drinks.each do |drinks|
