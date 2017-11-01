@@ -37,6 +37,11 @@ booths:
     url: https://thruster.tokyo/
     logo_image_url: /assets/images/sponsors/thruster.png
 
+# goods:
+#   - name: 株式会社spice life
+#     url: http://spicelife.jp
+#     logo_image_url: /assets/images/sponsors/spicelife.png
+
 silvers:
   - name: GMOペパボ株式会社
     url: https://pepabo.com/
@@ -44,6 +49,11 @@ silvers:
   - name: 株式会社エウレカ
     url: https://eure.jp/
     logo_image_url: /assets/images/sponsors/eureka.png
+
+# logos:
+#   - name: 株式会社spice life
+#     url: http://spicelife.jp
+#     logo_image_url: /assets/images/sponsors/spicelife.png
 
 drinks:
   - name: サイボウズ株式会社
@@ -71,13 +81,3 @@ communities:
   - name: Product Managers Japan (PMJP)
     url: http://productmanagers.jp/
     logo_image_url: /assets/images/sponsors/pmjp.png
-
-# logos:
-#   - name: 株式会社spice life
-#     url: http://spicelife.jp
-#     logo_image_url: /assets/images/sponsors/spicelife.png
-
-# goods:
-#   - name: 株式会社spice life
-#     url: http://spicelife.jp
-#     logo_image_url: /assets/images/sponsors/spicelife.png

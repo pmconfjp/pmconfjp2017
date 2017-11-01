@@ -46,34 +46,34 @@
         padding: 15px;
       }
 
+      &-goods {
+        @extend .sponsors_list_item;
+        width: 160px;
+        height: 160px;
+      }
+
       &-silvers {
         @extend .sponsors_list_item;
         width: 150px;
         height: 150px;
       }
 
-      &-drinks {
+      &-logos {
         @extend .sponsors_list_item;
         width: 120px;
         height: 120px;
+      }
+
+      &-drinks {
+        @extend .sponsors_list_item;
+        width: 110px;
+        height: 110px;
       }
 
       &-medias {
         @extend .sponsors_list_item;
-        width: 120px;
-        height: 120px;
-      }
-
-      &-goods {
-        @extend .sponsors_list_item;
-        width: 120px;
-        height: 120px;
-      }
-
-      &-logos {
-        @extend .sponsors_list_item;
-        width: 110px;
-        height: 110px;
+        width: 100px;
+        height: 100px;
       }
     }
   }
