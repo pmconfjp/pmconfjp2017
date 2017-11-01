@@ -21,16 +21,21 @@ golds:
     logo_image_url: /assets/images/sponsors/dena.png
 
 booths:
+  - name: 転職ドラフトプロジェクト - 株式会社リブセンス
+    url: https://webexpert-draft.jp/
+    logo_image_url: /assets/images/sponsors/livesense.png
   - name: freee株式会社
     url: https://www.freee.co.jp/
     logo_image_url: /assets/images/sponsors/freee.png
   - name: 株式会社Speee
     url: http://www.speee.jp/
     logo_image_url: /assets/images/sponsors/speee.png
-
-#   - name: Web Expert Draft
-#     url: https://job-draft.jp/web_expert_draft
-#     logo_image_url: /assets/images/sponsors/webexpertdraft.png
+  - name: アトラシアン株式会社
+    url: http://ja.atlassian.com/local/japan
+    logo_image_url: /assets/images/sponsors/atlassian.png
+  - name: THRUSTER - 株式会社グロースハックスタジオ
+    url: https://thruster.tokyo/
+    logo_image_url: /assets/images/sponsors/thruster.png
 
 silvers:
   - name: GMOペパボ株式会社
@@ -47,7 +52,15 @@ drinks:
   - name: 株式会社サイバーエージェント アドテクスタジオ
     url: https://cyberagent-career.jp/recruit/joboffer/81/165320/1244-1805
     logo_image_url: /assets/images/sponsors/cyberagent.png
-# medias:
+  - name: 株式会社OKPR
+    url: http://www.okpr.co.jp
+    logo_image_url: /assets/images/sponsors/okpr.png
+
+medias:
+#   - name: Software Design
+#     url: http://gihyo.jp/magazine/SD/
+#     logo_image_url: /assets/images/sponsors/softwaredesign.jpg
+
 #   - name: CAREER HACK
 #     url: http://careerhack.en-japan.com/
 #     logo_image_url: /assets/images/sponsors/careerhack.jpg
