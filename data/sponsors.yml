@@ -50,7 +50,11 @@ silvers:
     url: https://eure.jp/
     logo_image_url: /assets/images/sponsors/eureka.png
 
-# logos:
+logos:
+  - name: パーソルキャリア株式会社
+    url: https://www.persol-career.co.jp/
+    logo_image_url: /assets/images/sponsors/persolcareer.png
+
 #   - name: 株式会社spice life
 #     url: http://spicelife.jp
 #     logo_image_url: /assets/images/sponsors/spicelife.png
