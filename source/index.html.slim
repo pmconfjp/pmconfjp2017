@@ -150,16 +150,16 @@ section.section
       .sponsors_list
         - data.sponsors.booths.each do |booths|
           = link_to image_tag(booths.logo_image_url), booths.url, class: 'sponsors_list_item-booths', target: '_blank', title: booths.name, 'data-toggle' => 'tooltip'
-    - if data.sponsors.goods.present?
-      h3.sponsors_title 👕 T-SHIRTS SPONSOR
-      .sponsors_list
-        - data.sponsors.goods.each do |goods|
-          = link_to image_tag(goods.logo_image_url), goods.url, class: 'sponsors_list_item-goods', target: '_blank', title: goods.name, 'data-toggle' => 'tooltip'
     - if data.sponsors.silvers.present?
       h3.sponsors_title SILVER SPONSORS
       .sponsors_list
         - data.sponsors.silvers.each do |silvers|
           = link_to image_tag(silvers.logo_image_url), silvers.url, class: 'sponsors_list_item-silvers', target: '_blank', title: silvers.name, 'data-toggle' => 'tooltip'
+    - if data.sponsors.goods.present?
+      h3.sponsors_title 👕 T-SHIRTS SPONSOR
+      .sponsors_list
+        - data.sponsors.goods.each do |goods|
+          = link_to image_tag(goods.logo_image_url), goods.url, class: 'sponsors_list_item-goods', target: '_blank', title: goods.name, 'data-toggle' => 'tooltip'
     - if data.sponsors.logos.present?
       h3.sponsors_title LOGO SPONSORS
       .sponsors_list
