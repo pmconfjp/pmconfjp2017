@@ -37,10 +37,10 @@ booths:
     url: https://thruster.tokyo/
     logo_image_url: /assets/images/sponsors/thruster.png
 
-# goods:
-#   - name: 株式会社spice life
-#     url: http://spicelife.jp
-#     logo_image_url: /assets/images/sponsors/spicelife.png
+goods:
+  - name: 株式会社spice life
+    url: http://spicelife.jp
+    logo_image_url: /assets/images/sponsors/spicelife.png
 
 silvers:
   - name: GMOペパボ株式会社
