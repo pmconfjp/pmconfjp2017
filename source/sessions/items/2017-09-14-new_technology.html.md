@@ -1,9 +1,10 @@
 ---
-title: 新しいテクノロジーの潮流とどう向き合うか
-description: "新しいテクノロジーの潮流とどう向き合うか"
+title: トークン・エコノミー時代のプロダクト設計
+description: "トークン・エコノミー時代のプロダクト設計"
 theme: 新しいテクノロジーの潮流とどう向き合うか
 date: 2017-09-14 13:30
 author: "宇野 雅晴"
 category: sessions
 ---
-Coming soon
+Bitcoin、ICO、TokenなどBlockchainに関係する言葉を毎日目にするようになりました。今回はBlockchainで発行されるTokenの種類と活用のされ方を実際のプロジェクトをもとにご紹介します。
+また、7月にICOを完了したOmiseGOがこれから実現していくBlockhcainを通じて実現しようとしていることについてお話します。
