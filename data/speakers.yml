@@ -54,10 +54,30 @@ normals:
     title: マネージャー
     profile_image_url: /assets/images/speakers/KeiKinoshita.png
     profile: "メルカリUS版、UK版のPMを担当。NTTデータ、ランサーズを経て2016年にメルカリに 入社。"
-  - name: 仲山 進也
-    organization: 仲山考材（株）代表取締役・楽天（株）楽天大学学長
-    profile_image_url: /assets/images/speakers/ShinyaNakayama.png
-    profile: "北海道生まれ。慶應義塾大学法学部法律学科卒業。シャープ株式会社を経て、1999年に社員約20名の楽天株式会社へ移籍。初代ECコンサルタントであり、楽天市場の最古参スタッフ。2000年に「楽天大学」を設立、楽天市場出店者45,000社の成長パートナーとして活動中。2004年、Jリーグ「ヴィッセル神戸」の経営に参画。2007年に楽天で唯一のフェロー風正社員（兼業自由・勤怠自由の正社員）となり、2008年には仲山考材株式会社を設立、Eコマースの実践コミュニティ「次世代ECアイデアジャングル」を主宰している。2016年にJリーグ「横浜F・マリノス」とプロ契約、コーチ向けやジュニアユース向けの研修を手がける。"
+  - name: 尾部 絵里子
+    organization: Sansan株式会社
+    title: Sansan事業部 アソシエイツプロダクトマネージャー
+    profile_image_url: /assets/images/speakers/ErikoObe.jpg
+    profile: "ミュージシャン、人材エージェント向けソフトウェアのカスタマイズ営業を経て、名刺管理サービス「Sansan」「Eight」を展開する Sansan 株式会社に入社。法人向け名刺管理サービスの事業部にてサポート部門のマネジメントを経験後、2017年9月よりプロダクトマネジメントを行なう。"
+  - name: 高木 咲希
+    organization: "株式会社ソニックガーデン (SonicGarden)"
+    profile_image_url: /assets/images/pmconf_ico.png
+    profile: "ソニックガーデン初の女性プログラマ。エンジニアとお客さんの間に入る人がいない 「納品のない受託開発」の進め方に興味を持ちソニックガーデンへ入社。現在は「業務改善」の分野で活躍するエンジニアとして、業務ハックという手法を広める活動を進めている。"
+  - name: 石田 隼
+    organization: ChatWork株式会社
+    title: 事業推進部 プロダクトマネジャー
+    profile_image_url: /assets/images/pmconf_ico.png
+    profile: "サンフランシスコ州立大学在学中に、現地ベンチャーキャピタルでインターンを経験した後、米国でユーザーテスト事業を開始。日本のゲーム会社やスタートアップのプロダクトローカライゼーションを支援。大学卒業後、ChatWork株式会社に入社し、米国法人の立ち上げから事業展開、現地企業との業務提携等に携わる。2017年2月から東京オフィスに転籍し、プロダクトマネジャーとしてChatWorkのユーザー体験向上とプロダクト開発における文化づくりに従事する。"
+  - name: 篠原 佳奈子
+    organization: 株式会社ビズリーチ
+    title: サービス開発本部 プロダクト開発部 クライアントサクセスグループ プロダクトマネージャー
+    profile_image_url: /assets/images/speakers/KanakoShinohara.jpg
+    profile: "即戦力人材と企業をつなぐ転職サイト「ビズリーチ」の企画開発に携わる。新卒でSEとして6年勤め、求人広告会社でのディレクターを経て「プロダクトの力でビジネスマンのキャリアサポートをさらに進化させたい」という想いから、ビズリーチに2015年参画。プライベートでは、小４男子の母。"
+  - name: 高橋 りさ
+    organization: ソニーモバイルコミュニケーションズ株式会社
+    title: UX商品企画2部エクスペリエンス企画課 Senior Planner
+    profile_image_url: /assets/images/speakers/RisaTakahashi.jpg
+    profile: "Sony MobileのスマートフォンXperiaに搭載されているアプリ/機能のプロダクトマネージメントを担当。Sonyのガラケーから海外モデルの携帯電話の組み込み開発エンジニアを経て、Sony Ericsson Android初号機Xperia X10よりAndroidアプリ開発に携わる。プライベートは2児の母で、ワーキングマザー歴11年。子育てにScrumを導入しつつ四苦八苦の日々をおくる。"
   - name: 奥泉 直子
     organization: フリーランス・ユーザーリサーチャー
     profile_image_url: /assets/images/speakers/NaokoOkuizumi.png
