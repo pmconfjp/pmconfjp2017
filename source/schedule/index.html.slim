@@ -607,21 +607,32 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
               | Break
           .scheduleTable_line
             .scheduleTable_line_time
-              | 17:05 - 17:55
+              | 17:05 - 18:05
               .scheduleTable_line_time_min
-               | 50min
+               | 60min
+            .scheduleTable_line_session
+              .scheduleTable_line_speakerIcon
+                = image_tag 'pmconf_ico.jpg', width: '100', height: '100'
+              .scheduleTable_line_descriptions
+                span.scheduleTable_line_theme
+                  | [15-09] グループワークショップ
+                .scheduleTable_line_title
+                  a href="../sessions/2017/09/15/deep_session/" 日本のプロダクトマネージャーのあるべき姿とは
+                  br
+                  | 今年のテーマ：広げる、深める、日本のプロダクトマネジメント
+          .scheduleTable_line
+            .scheduleTable_line_time
+              |
             .scheduleTable_line_session
               .scheduleTable_line_speakerIcon
                 = image_tag 'speakers/TakaakiUmada.jpeg', width: '100', height: '100'
               .scheduleTable_line_descriptions
-                span.scheduleTable_line_theme
-                  | [15-09] 
-                .scheduleTable_line_title
-                  a href="../sessions/2017/09/15/deep_session/" 「日本のプロダクトマネージャーのあるべき姿とは」
-                  br
-                  | 今年のテーマ：広げる、深める、日本のプロダクトマネジメント
                 .scheduleTable_line_speaker
+                  | ファシリテーター
+                  br
                   | 馬田 隆明 氏
+                  br
+                  | Product Manager Conference 実行委員長
                   br
                   | 東京大学 産学協創推進本部 東京大学本郷テックガレージ ディレクター
           .scheduleTable_line
@@ -634,12 +645,16 @@ descriptipon: カンファレンスのタイムテーブルについて紹介し
                 .scheduleTable_line_speaker
                   | ファシリテーター
                   br
-                  | 関 満徳 (実行委員長)
+                  | 関 満徳
+                  br
+                  | Product Manager Conference 実行委員長
+                  br
+                  | グロースエクスパートナーズ株式会社 ITアーキテクト
           .scheduleTable_line
             .scheduleTable_line_time
-              | 17:55 - 18:15
+              | 18:05 - 18:15
               .scheduleTable_line_time_min
-               | 20min
+               | 10min
             .scheduleTable_line_session-all.break
               | クロージング
           .scheduleTable_line
