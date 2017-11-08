@@ -77,6 +77,9 @@ medias:
    - name: Software Design
      url: http://gihyo.jp/magazine/SD/
      logo_image_url: /assets/images/sponsors/softwaredesign.png
+   - name: "@IT"
+     url: http://www.atmarkit.co.jp/
+     logo_image_url: /assets/images/sponsors/atmarkit.png
 
 communities:
   - name: POStudy ～アジャイル・プロダクトマネジメント研究会～
