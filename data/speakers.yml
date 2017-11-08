@@ -53,8 +53,8 @@ normals:
   - name: 木下 慶
     organization: 株式会社メルカリ
     title: マネージャー
-    profile_image_url: /assets/images/speakers/KeiKinoshita.jpg
-    profile: "メルカリのUS版、UK版のプロダクトマネージャー。NTTデータでのSE職、ランサーズでのエンジニア・プロダクトマネージャー職を経て、2016年メルカリに入社。筑波大学大学院コンピュータサイエンス専攻修了。"
+    profile_image_url: /assets/images/speakers/KeiKinoshita.png
+    profile: "メルカリのUS版、UK版のプロダクトマネージャー。NTTデータでのSE職、ランサーズでのエンジニア・プロダクトマネージャー職を経て、2016年メルカリに入社。筑波大学大学院コンピュータサイエンス専攻修了。メルカリのUS版、UK版のプロダクトマネージャー。NTTデータでのSE職、ランサーズでのエンジニア・プロダクトマネージャー職を経て、2016年メルカリに入社。筑波大学大学院コンピュータサイエンス専攻修了。"
   - name: 仲山 進也
     organization: 仲山考材（株）代表取締役・楽天（株）楽天大学学長
     profile_image_url: /assets/images/speakers/ShinyaNakayama.png
@@ -74,6 +74,11 @@ normals:
     organization: "株式会社ソニックガーデン (SonicGarden)"
     profile_image_url: /assets/images/speakers/SakiTakagi.jpg
     profile: "ソニックガーデン初の女性プログラマ。エンジニアとお客さんの間に入る人がいない 「納品のない受託開発」の進め方に興味を持ちソニックガーデンへ入社。現在は「業務改善」の分野で活躍するエンジニアとして、業務ハックという手法を広める活動を進めている。"
+  - name: 高橋 りさ
+    organization: ソニーモバイルコミュニケーションズ株式会社
+    title: UX商品企画2部エクスペリエンス企画課 Senior Planner
+    profile_image_url: /assets/images/speakers/RisaTakahashi.jpg
+    profile: "Sony MobileのスマートフォンXperiaに搭載されているアプリ/機能のプロダクトマネージメントを担当。Sonyのガラケーから海外モデルの携帯電話の組み込み開発エンジニアを経て、Sony Ericsson Android初号機Xperia X10よりAndroidアプリ開発に携わる。プライベートは2児の母で、ワーキングマザー歴11年。子育てにScrumを導入しつつ四苦八苦の日々をおくる。"
   - name: 石田 隼
     organization: ChatWork株式会社
     title: 事業推進部 プロダクトマネジャー
@@ -84,11 +89,6 @@ normals:
     title: サービス開発本部 プロダクト開発部 クライアントサクセスグループ プロダクトマネージャー
     profile_image_url: /assets/images/speakers/KanakoShinohara.jpg
     profile: "即戦力人材と企業をつなぐ転職サイト「ビズリーチ」の企画開発に携わる。新卒でSEとして6年勤め、求人広告会社でのディレクターを経て「プロダクトの力でビジネスマンのキャリアサポートをさらに進化させたい」という想いから、ビズリーチに2015年参画。プライベートでは、小４男子の母。"
-  - name: 高橋 りさ
-    organization: ソニーモバイルコミュニケーションズ株式会社
-    title: UX商品企画2部エクスペリエンス企画課 Senior Planner
-    profile_image_url: /assets/images/speakers/RisaTakahashi.jpg
-    profile: "Sony MobileのスマートフォンXperiaに搭載されているアプリ/機能のプロダクトマネージメントを担当。Sonyのガラケーから海外モデルの携帯電話の組み込み開発エンジニアを経て、Sony Ericsson Android初号機Xperia X10よりAndroidアプリ開発に携わる。プライベートは2児の母で、ワーキングマザー歴11年。子育てにScrumを導入しつつ四苦八苦の日々をおくる。"
   - name: 奥泉 直子
     organization: フリーランス・ユーザーリサーチャー
     profile_image_url: /assets/images/speakers/NaokoOkuizumi.png
@@ -111,6 +111,13 @@ normals:
     title: Product Manager
     profile_image_url: /assets/images/speakers/CapellaYee.png
     profile: " I'm a product manager on Google Maps for iOS. Originally from Santa Cruz, California, I moved to Tokyo one year ago and couldn't be happier! Since moving here, I've become addicted to kickboxing, surfing, yoga, and wandering aimlessly around the city."
+  - name: 関 満徳
+    organization: Product Manager Conference 2017 実行委員長
+    profile_image_url: /assets/images/profile_images/fullvirtue.png
+    twitter: https://twitter.com/fullvirtue
+    github: https://github.com/fullvirtue
+    facebook: https://facebook.com/fullvirtue
+    link: http://fullvirtue.com/
   - name: 馬田 隆明
     organization: 東京大学
     title: 産学協創推進本部 東京大学本郷テックガレージ ディレクター
@@ -119,6 +126,3 @@ normals:
     link: https://medium.com/@tumada/
     twitter: https://twitter.com/tumada
     facebook: https://www.facebook.com/taka.umada
-  - name: 関 満徳
-    organization: Product Manager Conference 2017 実行委員長
-    profile_image_url: /assets/images/profile_images/fullvirtue.png
