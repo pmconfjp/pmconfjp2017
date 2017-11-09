@@ -49,11 +49,17 @@ silvers:
   - name: 株式会社エウレカ
     url: https://eure.jp/
     logo_image_url: /assets/images/sponsors/eureka.png
+  - name: グロースエクスパートナーズ株式会社
+    url: http://www.gxp.co.jp/atlassian/index.html
+    logo_image_url: /assets/images/sponsors/growthxpartners.png
 
 logos:
   - name: パーソルキャリア株式会社
     url: https://www.persol-career.co.jp/
     logo_image_url: /assets/images/sponsors/persolcareer.png
+  - name: 株式会社OKPR
+    url: http://www.okpr.co.jp
+    logo_image_url: /assets/images/sponsors/okpr.png
 
 #   - name: 株式会社spice life
 #     url: http://spicelife.jp
@@ -66,9 +72,6 @@ drinks:
   - name: 株式会社サイバーエージェント アドテクスタジオ
     url: https://cyberagent-career.jp/recruit/joboffer/81/165320/1244-1805
     logo_image_url: /assets/images/sponsors/cyberagent.png
-  - name: 株式会社OKPR
-    url: http://www.okpr.co.jp
-    logo_image_url: /assets/images/sponsors/okpr.png
 
 medias:
    - name: CAREER HACK
