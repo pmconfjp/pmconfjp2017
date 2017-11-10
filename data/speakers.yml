@@ -94,8 +94,10 @@ normals:
     profile_image_url: /assets/images/speakers/NaokoOkuizumi.png
     profile: "ユーザビリティ & UXリサーチ スペシャリスト。フリーランス歴もうすぐ丸14年。日本国内はもとより欧米、アジア諸国など世界中からの依頼を受けて、ユーザビリティやユーザーエクスペリエンスに関連する調査を国内外にて実施。多数の調査経験を有する。また、人間の認知特性を踏まえてリサーチに臨むことの意義とそのためのノウハウを伝える講義やセミナーの講師を務め、後輩の育成・指導にも積極的に関わる。"
   - name: 小久保 浩大郎
-    organization: 株式会社CAMPFIRE
-    profile_image_url: /assets/images/pmconf_ico.png
+    organization: 株式会社CAMPFIRE Product Division
+    title: 執行役員 CXO
+    profile_image_url: /assets/images/speakers/KotaroKokubo.png
+    profile: "1976年生まれ、三重県出身。複数のデザインエージェンシーにて、フロントエンドデベロッパー、インターフェイスデザイナーとして国内外の大手企業のウェブサイトやサービスのデザイン、実装に携わる。2011年 にGoogle へ転職。インフォメーションアーキテクトとして、APACリージョン向けのプロダクトマーケティングやCSRブランディングのためのオンラインコミュニケーション設計に携わる。2017年8月CAMPFIREへ入社し、CXOに就任。"
   - name: 木村 衆平
     organization: 株式会社サイバーエージェント アドテク本部 アドテクスタジオ
     title: プロダクトマネージャー兼ソフトウェアエンジニア
@@ -111,6 +113,10 @@ normals:
     title: Product Manager
     profile_image_url: /assets/images/speakers/CapellaYee.png
     profile: " I'm a product manager on Google Maps for iOS. Originally from Santa Cruz, California, I moved to Tokyo one year ago and couldn't be happier! Since moving here, I've become addicted to kickboxing, surfing, yoga, and wandering aimlessly around the city."
+  - name: 丹野 瑞紀
+    organization: 株式会社ビズリーチ
+    title: プロダクトマネージャー
+    profile_image_url: /assets/images/profile_images/mizukitanno.png
   - name: 関 満徳
     organization: Product Manager Conference 2017 実行委員長
     profile_image_url: /assets/images/profile_images/fullvirtue.png
