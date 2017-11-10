@@ -52,6 +52,9 @@ silvers:
   - name: グロースエクスパートナーズ株式会社
     url: http://www.gxp.co.jp/atlassian/index.html
     logo_image_url: /assets/images/sponsors/growthxpartners.png
+  - name: 株式会社アイスタイル
+    url: http://recruit.istyle.co.jp/career/
+    logo_image_url: /assets/images/sponsors/istyle.jpg
 
 logos:
   - name: パーソルキャリア株式会社
