@@ -82,15 +82,15 @@ drinks:
     logo_image_url: /assets/images/sponsors/line.png
 
 medias:
-   - name: CAREER HACK
-     url: http://careerhack.en-japan.com/
-     logo_image_url: /assets/images/sponsors/careerhack.jpg
-   - name: Software Design
-     url: http://gihyo.jp/magazine/SD/
-     logo_image_url: /assets/images/sponsors/softwaredesign.png
-   - name: "@IT"
-     url: http://www.atmarkit.co.jp/
-     logo_image_url: /assets/images/sponsors/atmarkit.png
+  - name: CAREER HACK
+    url: http://careerhack.en-japan.com/
+    logo_image_url: /assets/images/sponsors/careerhack.jpg
+  - name: Software Design
+    url: http://gihyo.jp/magazine/SD/
+    logo_image_url: /assets/images/sponsors/softwaredesign.png
+  - name: "@IT"
+    url: http://www.atmarkit.co.jp/
+    logo_image_url: /assets/images/sponsors/atmarkit.png
   - name: 転職ドラフトプロジェクト - 株式会社リブセンス
     url: https://webexpert-draft.jp/
     logo_image_url: /assets/images/sponsors/livesense.png
