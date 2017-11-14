@@ -5,6 +5,9 @@ theme: "[15-04] ランチ／ショートトーク"
 date: 2017-09-15 12:20
 author: "尾部 絵里子"
 co_author: "高木 咲希"
+co_author2: "高橋 りさ"
+co_author3: "石田 隼"
+co_author4: "篠原 佳奈子"
 category: sessions
 og_image_url: http://2017.pmconf.jp/assets/images/speakers/ErikoObe.jpg
 ---

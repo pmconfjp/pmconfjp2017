@@ -1,4 +1,12 @@
 normals:
+  - name: 馬田 隆明
+    organization: 東京大学
+    title: 産学協創推進本部 東京大学本郷テックガレージ ディレクター
+    profile_image_url: /assets/images/speakers/TakaakiUmada.jpeg
+    profile: "日本マイクロソフト株式会社にて Visual Studio のプロダクトマネージャーを経験後、テクニカルエバンジェリストとしてスタートアップ支援等を行う。2016 年より現職。"
+    link: https://medium.com/@tumada/
+    twitter: https://twitter.com/tumada
+    facebook: https://www.facebook.com/taka.umada
   - name: 齊藤 満
     organization: 楽天株式会社
     title: トラベルサービス開発・運用部 トラベルプロダクトマネジメント課 Senior Manager
@@ -22,6 +30,7 @@ normals:
     profile: "2000年大学卒業後、ウェブサービス開発会社を立ち上げ。2002年サイバーエージェントへ転職し、ポイントメディア事業の立ち上げに従事。2008年よりアメーバ事業本部にてブログ事業の広告収益化を担当。2011年に株式会社ディー・エヌ・エーとのジョイントベンチャーAMoAdへ参画。2012年同社取締役に就任。2014年アドテク本部の立ち上げ。2017年よりアドテクスタジオCPOに就任。"
   - name: 及川 卓也
     organization: フリーランス
+    profile: "大学卒業後、日本DEC、マイクロソフトを経て、2006年にグーグルに転職し、プロダクトマネージャとエンジニアリングマネージャとして従事。2015年11月より、Incrementsにて「Qiita」のプロダクトマネージャとして勤務。2017年6月に独立し、エンジニア組織作りのエンジニアリングマネジメントとプロダクトマネジメント、技術アドバイスの領域で、IT系企業の顧問やアドバイザーとして活動中。"
     profile_image_url: /assets/images/profile_images/takoratta.jpeg
   - name: 佐藤 裕介
     organization: 株式会社フリークアウト・ホールディングス
@@ -124,11 +133,3 @@ normals:
     github: https://github.com/fullvirtue
     facebook: https://facebook.com/fullvirtue
     link: http://fullvirtue.com/
-  - name: 馬田 隆明
-    organization: 東京大学
-    title: 産学協創推進本部 東京大学本郷テックガレージ ディレクター
-    profile_image_url: /assets/images/speakers/TakaakiUmada.jpeg
-    profile: "日本マイクロソフト株式会社にて Visual Studio のプロダクトマネージャーを経験後、テクニカルエバンジェリストとしてスタートアップ支援等を行う。2016 年より現職。"
-    link: https://medium.com/@tumada/
-    twitter: https://twitter.com/tumada
-    facebook: https://www.facebook.com/taka.umada
