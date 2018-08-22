@@ -61,7 +61,7 @@ helpers do
     elsif yield_content(:description)
       yield_content(:description)
     else
-      'Product Manager Conference 2017 - 広げる、深める、日本のプロダクトマネジメント'
+      'プロダクトマネージャー・カンファレンス 2017 - 広げる、深める、日本のプロダクトマネジメント'
     end
   end
 
